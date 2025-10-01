@@ -1,5 +1,5 @@
 {
-  "name": "com.shyunwook.unityflutterbridge",
+  "name": "com.bobby.unityflutterbridge",
   "version": "1.0.0",
   "displayName": "Unity Flutter Bridge",
   "description": "Provides WebView + Flutter communication bridge for Unity projects.",
