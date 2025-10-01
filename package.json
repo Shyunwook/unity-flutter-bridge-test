@@ -1,19 +1,19 @@
 {
-  "name": "com.bobby.unityflutterbridge",
-  "displayName": "Unity Flutter Bridge",
+  "name": "com.shyunwook.unityflutterbridge",
   "version": "1.0.0",
+  "displayName": "Unity Flutter Bridge",
+  "description": "Provides WebView + Flutter communication bridge for Unity projects.",
   "unity": "2021.3",
-  "description": "Embed Flutter Web in Unity using WebView with bridge support.",
   "keywords": [
-    "flutter",
     "webview",
+    "flutter",
     "bridge",
-    "localserver"
+    "unity"
   ],
   "author": {
-    "name": "Bobby",
-    "email": "bobby@muabe.com"
+    "name": "Shyunwook",
+    "email": "your_email@example.com",
+    "url": "https://github.com/Shyunwook/unity-flutter-bridge-test"
   },
-  "type": "library",
-  "dependencies": {}
+  "type": "library"
 }
